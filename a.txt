@@ -1,1 +1,2 @@
-Hello world! 
+Hello world!
+This is a wrong content from branch 2 supposed to be in branch1 
